@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ASN1AdaptiveTypeObject",
+	"category" : "X509",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "X509Certificate",
+	"type" : "normal"
+}

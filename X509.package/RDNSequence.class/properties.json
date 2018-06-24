@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ASN1AdaptiveTypeCollection",
+	"category" : "X509",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RDNSequence",
+	"type" : "normal"
+}

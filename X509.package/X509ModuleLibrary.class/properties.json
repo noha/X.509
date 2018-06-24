@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ASN1ClassModuleLibrary",
+	"category" : "X509",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "X509ModuleLibrary",
+	"type" : "normal"
+}
